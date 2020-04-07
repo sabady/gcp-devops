@@ -1,7 +1,7 @@
 5. create GCP project - gcp-devops-01
 6. create cluster - cluster-1
 
-10.deploy jenkins on cluster with service (LB) @ port 8080 - 
+10.deploy jenkins on cluster with service (LB) @ port 8080 - http://35.228.56.124:8080/
  -  get into the pod to get the init password
 20. create pipeline to pull, build, test and deploy sample web server
 
